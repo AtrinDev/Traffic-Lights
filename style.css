@@ -1,0 +1,44 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.circle {
+    /* border: 1px solid black; */
+    padding: 50px;
+    border-radius: 50%;
+    margin: 20px;
+    background-color: white;
+}
+
+.traffic-lights {
+    background-color: rgb(66, 66, 66);
+    padding-bottom: 15px;
+    border-radius: 5px;
+}
+
+.btn {
+    padding: 10px;
+    border-radius: 50%;
+    border: none;
+}
+
+.red-btn {
+    background-color: red;
+}
+
+.yellow-btn {
+    background-color: yellow;
+}
+
+.green-btn {
+    background-color: green;
+}
+
+.centering {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
